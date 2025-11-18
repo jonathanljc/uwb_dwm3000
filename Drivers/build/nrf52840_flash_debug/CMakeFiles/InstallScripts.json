@@ -1,0 +1,21 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/API/Shared/dwt_uwb_driver/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/API/Shared/dwt_uwb_driver/dw3000/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/API/Shared/dwt_uwb_driver/dw3720/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/API/Shared/dwt_uwb_driver/lib/qmath/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Src/tests/automated_tests/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Src/tests/automated_tests/000-dummy/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Src/tests/automated_tests/test_pll_cal/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Build_Platforms/nRF52840-DK/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Build_Platforms/nRF52840-DK/lib/chelpers/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Build_Platforms/nRF52840-DK/lib/rtt/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Build_Platforms/nRF52840-DK/lib/qio/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Build_Platforms/nRF52840-DK/lib/qosal/cmake_install.cmake",
+		"C:/DW3_QM33_SDK_1.1.1/Drivers/build/nrf52840_flash_debug/output/Build_Platforms/nRF52840-DK/Startup/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
